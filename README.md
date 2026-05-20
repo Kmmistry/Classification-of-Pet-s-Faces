@@ -1,1 +1,3 @@
 # Classification-of-Pet-s-Faces
+
+# Classification of Pet's Faces  This repository contains a deep learning framework designed to classify various breeds of cats and dogs based on facial features.   ## Dataset Overview The project utilizes a curated dataset of approximately 7,000 images representing diverse animal breeds. The data is derived from the following sources: * **Oxford-IIIT Pet Dataset:** [VGG Research Page](https://www.robots.ox.ac.uk/~vgg/data/pets/) * **Kaggle Mirror:** [The Oxford-IIIT Pet Dataset by tanlikesmath](https://www.kaggle.com/datasets/tanlikesmath/the-oxfordiiit-pet-dataset)  ## Project Objective To build, train, and evaluate computer vision models capable of fine-grained breed identification using localized facial regions.
